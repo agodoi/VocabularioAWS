@@ -1,4 +1,4 @@
-# Vocabulario AWS
+# Vocabulário AWS
 
 ## Alta Disponibilidade:
 São multi data center isolados fisicamente, porém interconectados. Serviços relacionados: Amazon Elastic Load Balancing (ELB), Amazon Route 53, Amazon RDS Multi-AZ, Amazon S3 Cross-Region Replication, Amazon CloudWatch Alarms, Amazon EC2 Auto Scaling, Amazon S3 Object Lifecycle Policies, AWS Global Accelerator, Amazon Aurora Global Database e Zonas de Disponibilidade (AZs).
