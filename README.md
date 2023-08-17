@@ -1,7 +1,7 @@
 # Vocabulario AWS
 
 ## Alta Disponibilidade:
-São multi data center isolados fisicamente, porém interconectados. Serviços relacionados:
+São multi data center isolados fisicamente, porém interconectados. Serviços relacionados: Amazon Elastic Load Balancing (ELB), Amazon Route 53, Amazon RDS Multi-AZ, Amazon S3 Cross-Region Replication, Amazon CloudWatch Alarms, Amazon EC2 Auto Scaling, Amazon S3 Object Lifecycle Policies, AWS Global Accelerator, Amazon Aurora Global Database e Zonas de Disponibilidade (AZs).
 
 ## Resiliência:
 É a capacidade de um sistema ou aplicação de continuar funcionando de maneira confiável e eficaz mesmo diante de falhas ou interrupções. Serviços que tentam garantir isso: Multi-AZ (regiões), Load Balance (ALB), AutoScalling, backups S3 e monitoramentos via alertas.
