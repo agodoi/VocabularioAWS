@@ -18,11 +18,11 @@ Permite que os recursos de computação, armazenamento e rede se expandam ou con
 ## Segurança:
 Refere-se à implementação de medidas e práticas que protegem os dados, sistemas e recursos dos clientes, garantindo a confidencialidade, integridade e disponibilidade das informações. Serviços relacionados: IAM, criptografia, AWS CloudTrail, GuardDuty, firewall, VPC, Security Groups, KMS, AWS Shield, Amazon Macie.
 
-## Auditoria
+## Auditoria:
+É o processo de monitoramento e registro das atividades e eventos que ocorrem em uma conta ou ambiente da AWS, rastreia quem fez o quê, identifica atividades suspeitas e manter a visibilidade sobre as operações realizadas dentro da infraestrutura, identifica vulnerabilidades. Serviços: Amazon CloudTrail, Amazon CloudWatch, Amazon GuardDuty, AWS Config, Amazon Inspector e IAM.
 
-## Acesso Global
+## Acesso Global:
+Refere-se à capacidade de permitir que os usuários acessem e interajam com recursos e serviços da AWS em diferentes regiões geográficas, proporcionando uma experiência consistente e de alta qualidade em todo o mundo. Isso é importante para empresas e aplicativos que possuem uma presença global e desejam oferecer serviços a usuários em diferentes partes do mundo. Serviços: Amazon CloudFront, Amazon Route 53, AWS Global Accelerator, AWS Regional Edge Caches, Amazon S3 e o Amazon DynamoDB (que possuem opções de replicação global), Arquitetura Multi-Região (usuários possam acessar a aplicação a partir da região mais próxima, reduzindo a latência e melhorando a experiência do usuário).
 
-## Integração
-
-
-
+## Integração:
+É o processo de conectar e sincronizar diferentes componentes, serviços ou sistemas para permitir que eles funcionem juntos de maneira harmoniosa e eficiente. Serviços: Amazon API Gateway, AWS Lambda, AWS Step Functions, Amazon SQS e Amazon SNS, AWS Data Pipeline, AWS App Integration Services (Amazon AppFlow e Amazon EventBridge), AWS Direct Connect, VPN, AWS Glue para ETL (Extração, Transformação e Carga) e Amazon Redshift para análise de dados.
