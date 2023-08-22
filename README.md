@@ -30,3 +30,30 @@ Refere-se à capacidade de permitir que os usuários acessem e interajam com rec
 ## Integração:
 É o processo de conectar e sincronizar diferentes componentes, serviços ou sistemas para permitir que eles funcionem juntos de maneira harmoniosa e eficiente. Serviços: Amazon API Gateway, AWS Lambda, AWS Step Functions, Amazon SQS e Amazon SNS, AWS Data Pipeline, AWS App Integration Services (Amazon AppFlow e Amazon EventBridge), AWS Direct Connect, VPN, AWS Glue para ETL (Extração, Transformação e Carga) e Amazon Redshift para análise de dados.
 
+## Confiabilidade:
+
+
+## 6R Well-Architected Framework
+
+O AWS Well-Architected Framework é um conjunto de melhores práticas para projetar sistemas na nuvem de maneira eficaz, segura e eficiente. Ele é projetado para ajudar os arquitetos de soluções a criar infraestruturas, aplicações e workloads de maneira otimizada. Parte desse framework envolve os **6 R's da Migração** que serve para convencer os clientes a migrarem seu sitema **on premises** para a nuvem. Os "6 R's da Migração" são:
+
+1. **Rehost (Lift-and-Shift)**: a infraestrutura e os aplicativos são migrados para a nuvem sem muitas modificações. Isso é especialmente útil para cenários em que você deseja migrar rapidamente e otimizar posteriormente.
+
+2. **Replatform (Lift-Tinker-and-Shift)**: você ajusta ligeiramente os componentes da aplicação para aproveitar os serviços gerenciados da nuvem, mas sem redesenhar completamente a arquitetura.
+
+3. **Repurchase (Drop-and-Shop)**: envolve a migração para um novo sistema na nuvem, possivelmente adotando um software como serviço (SaaS) em vez de manter um software personalizado.
+
+4. **Refactor (Re-architect)**: nessa abordagem, você redesenha parte significativa da aplicação para aproveitar as capacidades nativas da nuvem, como serviços serverless, banco de dados gerenciados, etc.
+
+5. **Retire**: você identifica os componentes que não são mais necessários e os desliga.
+
+6. **Retain**: se aplica quando parte da aplicação não pode ser movida para a nuvem no momento, mas pode ser considerada para migração posterior.
+
+O AWS Well-Architected Framework também engloba outras áreas importantes de melhores práticas, como:
+
+* Segurança
+* Confiabilidade
+* Desempenho
+* Eficiente
+* Excelência operacional
+
