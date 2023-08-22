@@ -31,7 +31,7 @@ Refere-se à capacidade de permitir que os usuários acessem e interajam com rec
 É o processo de conectar e sincronizar diferentes componentes, serviços ou sistemas para permitir que eles funcionem juntos de maneira harmoniosa e eficiente. Serviços: Amazon API Gateway, AWS Lambda, AWS Step Functions, Amazon SQS e Amazon SNS, AWS Data Pipeline, AWS App Integration Services (Amazon AppFlow e Amazon EventBridge), AWS Direct Connect, VPN, AWS Glue para ETL (Extração, Transformação e Carga) e Amazon Redshift para análise de dados.
 
 ## Confiabilidade:
-
+É a capacidade de um sistema ou aplicativo continuar operando conforme o esperado, mesmo quando ocorrem falhas nos componentes individuais. Isso envolve a construção de sistemas que sejam resilientes a falhas, capazes de se recuperar automaticamente e que minimizem o impacto de interrupções para os usuários finais. Serviços relacionados: Amazon EC2 Auto Scaling, Amazon Elastic Load Balancing, Amazon RDS Multi-AZ, Amazon S3 Replication, Amazon CloudWatch, AWS Lambda, Amazon Route 53, Amazon Aurora Multi-Master, AWS Elastic Beanstalk.
 
 ## 6R Well-Architected Framework
 
